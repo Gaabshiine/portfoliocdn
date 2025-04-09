@@ -730,7 +730,7 @@ p {
 	content: "";
 	height: 100%;
 	width: 100%;
-	background: url(../img/shape/35.html);
+	background: url(https://cdn.jsdelivr.net/gh/Gaabshiine/portfoliocdn/public_app/img/shape/35.html);
 	background-size: contain;
 	background-repeat: no-repeat;
 	background-position: bottom center;
@@ -3309,7 +3309,7 @@ a.btn-style-one::after {
 	content: "";
 	height: 100%;
 	width: 100%;
-	background: url(../img/shape/5.png);
+	background: url(https://cdn.jsdelivr.net/gh/Gaabshiine/portfoliocdn/public_app/img/shape/5.png);
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: center;
@@ -3326,7 +3326,7 @@ a.btn-style-one::after {
 	content: "";
 	height: 100%;
 	width: 100%;
-	background: url(../img/shape/7.png);
+	background: url(https://cdn.jsdelivr.net/gh/Gaabshiine/portfoliocdn/public_app/img/shape/7.png);
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: center;
@@ -3341,7 +3341,7 @@ a.btn-style-one::after {
 	content: "";
 	height: 100%;
 	width: 100%;
-	background: url(../img/shape/6.png);
+	background: url(https://cdn.jsdelivr.net/gh/Gaabshiine/portfoliocdn/public_app/img/shape/6.png);
 	background-size: contain;
 	background-repeat: no-repeat;
 	background-position: center left;
@@ -3940,7 +3940,7 @@ ul.list-style-one li::after {
 	content: "";
 	height: 16px;
 	width: 16px;
-	background: url(../img/icon/check-mark.png);
+	background: url(https://cdn.jsdelivr.net/gh/Gaabshiine/portfoliocdn/public_app/img/icon/check-mark.png);
 	background-size: contain;
 	background-repeat: no-repeat;
 }
@@ -4419,7 +4419,7 @@ ul.list-style-one li::after {
 	content: "";
 	height: 60px;
 	width: 60px;
-	background: url(../img/shape/quote.png);
+	background: url(https://cdn.jsdelivr.net/gh/Gaabshiine/portfoliocdn/public_app/img/shape/quote.png);
 	background-size: contain;
 	background-repeat: no-repeat;
 	background-position: right top;
@@ -4941,7 +4941,7 @@ a.btn-circle-large img {
 	content: "";
 	height: 200%;
 	width: 200%;
-	background: url(../img/shape/14.png);
+	background: url(https://cdn.jsdelivr.net/gh/Gaabshiine/portfoliocdn/public_app/img/shape/14.png);
 	background-size: contain;
 	background-repeat: no-repeat;
 	z-index: -1;
