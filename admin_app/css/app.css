@@ -12386,7 +12386,7 @@ input[data-switch="dark"]:checked + label {
     line-height: 42px; }
 
 body.authentication-bg {
-  background-image: url("../images/bg-pattern-light.svg");
+  background-image: url("https://cdn.jsdelivr.net/gh/Gaabshiine/portfoliocdn/admin_app/images/bg-pattern-light.svg");
   background-size: cover;
   background-position: center; }
   body.authentication-bg .account-pages {
