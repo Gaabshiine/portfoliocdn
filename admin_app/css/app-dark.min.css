@@ -2886,8 +2886,8 @@ textarea.form-control-lg {
 }
 
 .form-check-input:checked {
-    background-color: #EF6823;
-    border-color: #EF6823
+    background-color: #093326;
+    border-color: #093326
 }
 
 .form-check-input:checked[type=checkbox] {
@@ -15536,13 +15536,13 @@ body[data-layout-mode=boxed][data-layout=topnav] .navbar-custom {
 }
 
 .end-bar .rightbar-title {
-    background-color: #EF6823;
+    background-color: #083427;
     padding: 27px 25px;
     color: #fff
 }
 
 .end-bar .end-bar-toggle {
-    background-color: #8a92f7;
+    background-color: #213326;
     height: 24px;
     width: 24px;
     line-height: 22px;
@@ -17616,9 +17616,9 @@ h6 {
 }
 
 .widget-icon {
-    color: #EF6823;
+    color: #073427;
     font-size: 20px;
-    background-color: rgba(114, 124, 245, .25);
+    background-color: #107A5C;
     height: 40px;
     width: 40px;
     text-align: center;
@@ -22740,7 +22740,7 @@ div.table-responsive>div.dataTables_wrapper>div.row>div[class^=col-]:first-child
 }
 
 .gantt .bar-wrapper:hover .bar-progress {
-    fill: #8a92f7
+    fill: #213326
 }
 
 .gantt .bar,
