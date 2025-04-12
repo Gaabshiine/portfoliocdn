@@ -3663,14 +3663,14 @@ fieldset:disabled .btn {
 
 .btn-success:hover {
     color: #fff;
-    background-color: #149b75;
+    background-color: #0A3B2C;
     border-color: #08a679
 }
 
 .btn-check:focus+.btn-success,
 .btn-success:focus {
     color: #fff;
-    background-color: #149b75;
+    background-color: #0A3B2C;
     border-color: #08a679;
     -webkit-box-shadow: 0 0 0 .2rem rgba(47, 214, 167, .5);
     box-shadow: 0 0 0 .2rem rgba(47, 214, 167, .5)
@@ -8049,7 +8049,7 @@ fieldset:disabled .btn {
 
 .link-success:focus,
 .link-success:hover {
-    color: #149b75
+    color: #0A3B2C
 }
 
 .link-info {

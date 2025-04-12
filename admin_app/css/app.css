@@ -2608,11 +2608,11 @@ textarea.form-control-lg {
   border-color: #0C3126; }
   .btn-success:hover {
     color: #fff;
-    background-color: #149b75;
+    background-color: #0A3B2C;
     border-color: #08a679; }
   .btn-check:focus + .btn-success, .btn-success:focus {
     color: #fff;
-    background-color: #149b75;
+    background-color: #0A3B2C;
     border-color: #08a679;
     -webkit-box-shadow: 0 0 0 0.2rem rgba(47, 214, 167, 0.5);
             box-shadow: 0 0 0 0.2rem rgba(47, 214, 167, 0.5); }
@@ -5732,7 +5732,7 @@ textarea.form-control-lg {
 .link-success {
   color: #0C3126; }
   .link-success:hover, .link-success:focus {
-    color: #149b75; }
+    color: #0A3B2C; }
 
 .link-info {
   color: #39afd1; }
