@@ -3877,7 +3877,7 @@ nav.navbar.validnavs.nav-full-width {
 	nav.navbar.validnavs.navbar-box .nav-box {
         background: linear-gradient(0deg, var(--white) 0%, #ECF0F3 100%);
         border-radius: 10px;
-        padding: 0 50px;
+        padding: 0 30px;
         box-shadow: 0px 0 67px 0 rgb(109 117 143 / 13%);
     }
 
